@@ -1,0 +1,27 @@
+-- Challenges
+Settings.challenges = {
+	ids = {
+		playerKills = 		{ name = 'Matar Jugadores', count = 25 },
+		playerHeadshots = 	{ name = 'Matar Jugadores Con Headshot', count = 10 },
+		playerMelee = 		{ name = 'Matar Jugadores Con Arma Melee', count = 1 },
+		bountyTarget = 		{ name = 'Conviértete En Un Objetivo De Recompensa', count = 1 },
+		vehicleImport = 	{ name = 'Completa "Importacion De Vehiculos"', count = 1 },
+		hostileTakeover = 	{ name = 'Completa "Toma El Control"', count = 1 },
+		vehicleRent = 		{ name = 'Renta Un Vehiculo Personal', count = 5 },
+		completeMissions = 	{ name = 'Completa Misiones', count = 3 },
+		assetRecovery = 	{ name = 'Completa "Recuperación De Activos"', count = 1 },
+		drugExport = 		{ name = 'Completa "Exportacion De Drogas"', count = 1 },
+		headhunter = 		{ name = 'Completa "Cazarrecompensas"', count = 1 },
+		heist = 			{ name = 'Completa "Atraco"', count = 1 },
+		mostWanted = 		{ name = 'Completa "Mas Buscado"', count = 1 },
+		--sightseer = { name = 'Complete Sightseer Mission', count = 1 },
+		survival = 			{ name = 'Completa "Supervivencia"', count = 1 },
+		timeTrial = 		{ name = 'Completa "Contrareloj" (ORO)', count = 1 },
+		velocity = 			{ name = 'Completa "Velocity"', count = 1 },
+		participateEvent = 	{ name = 'Participa En Un Evento Freeroam', count = 1 },
+		fastTravel = 		{ name = 'Usa El Viaje Rapido', count = 1 },
+	},
+	count = 5,
+	reward = { cash = 15000, exp = 3000 },
+	allReward = { cash = 50000, exp = 15000 },
+}

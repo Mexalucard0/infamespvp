@@ -1,0 +1,21 @@
+-- Garages
+Settings.garages = {
+	-- Low-end
+	['bighorn'] = { type = 'low', name = '12 Little Bighorn Avenue', location = { x = 724.84875488281, y = -1193.2897949219, z = 24.279363632202 }, exportPos = { x = 745.16888427734, y = -1186.9566650391, z = 23.862798690796, heading = 179.29594421387 }, capacity = 2, price = 25000 },
+	['popular'] = { type = 'low', name = 'Unit 124 Popular Street', location = { x = 850.49475097656, y = -1054.1494140625, z = 28.072996139526 }, exportPos = { x = 852.34204101562, y = -1067.7164306641, z = 27.638542175293, heading = 298.35974121094 }, capacity = 2, price = 25000 },
+	['strawberry'] = { type = 'low', name = '1 Strawberry Ave', location = { x = -243.27192687988, y = 6236.60546875, z = 31.489896774292 }, exportPos = { x = -236.02571105957, y = 6251.2338867188, z = 31.074998855591, heading = 180.44511413574 }, capacity = 2, price = 26000 },
+	['paleto'] = { type = 'low', name = '142 Paleto Boulevard', location = { x = -75.815055847168, y = 6425.3857421875, z = 31.490455627441 }, exportPos = { x = -85.855415344238, y = 6425.8515625, z = 31.076944351196, heading = 9.9898443222046 }, capacity = 2, price = 26500 },
+	['grapeseed'] = { type = 'low', name = '1932 Grapeseed Ave', location = { x = 2552.7360839844, y = 4672.2963867188, z = 33.948055267334 }, exportPos = { x = 2539.9235839844, y = 4667.8383789062, z = 33.636329650879, heading = 316.12057495117 }, capacity = 2, price = 27500 },
+	['route68'] = { type = 'low', name = '1200 Route 68', location = { x = 645.95910644531, y = 2792.4018554688, z = 41.934226989746 }, exportPos = { x = 640.73187255859, y = 2780.67578125, z = 41.566078186035, heading = 244.71063232422 }, capacity = 2, price = 28500 },
+	['lowenstein'] = { type = 'low', name = '0754 Roy Lowenstein Boulevard', location = { x = 217.00907897949, y = 2605.5505371094, z = 46.025905609131 }, exportPos = { x = 225.76179504394, y = 2604.5578613281, z = 45.461112976074, heading = 11.545246124268 }, capacity = 2, price = 29500 },
+	['ocean'] = { type = 'low', name = '2000 Great Ocean Highway', location = { x = -2214.7111816406, y = 4239.3349609375, z = 47.444316864014 }, exportPos = { x = -2224.400390625, y = 4231.4140625, z = 46.571208953857, heading = 338.03921508789 }, capacity = 2, price = 31500 },
+	['senora'] = { type = 'low', name = '1920 Senora Way', location = { x = 2465.7077636719, y = 1589.3356933594, z = 32.720333099365 }, exportPos = { x = 2463.4279785156, y = 1599.1195068359, z = 32.30638885498, heading = 225.43823242188 }, capacity = 2, price = 32000 },
+	['perro'] = { type = 'low', name = '634 Boulevard Del Perro', location = { x = -1243.2457275391, y = -257.56817626953, z = 38.988910675049 }, exportPos = { x = -1254.8660888672, y = -264.32922363281, z = 38.547180175781, heading = 299.79345703125 }, capacity = 2, price = 33500 },
+	['mirror'] = { type = 'low', name = '0897 Mirror Park Boulevard', location = { x = 971.50524902344, y = -115.44449615479, z = 74.353134155273 }, exportPos = { x = 952.14764404297, y = -124.66337585449, z = 73.94783782959, heading = 227.5818939209 }, capacity = 2, price = 33500 },
+	['innocence'] = { type = 'low', name = 'Garage Innocence Boulevard', location = { x = -338.61236572266, y = -1464.3701171875, z = 30.57995223999 }, exportPos = { x = -336.50442504883, y = -1495.2662353516, z = 30.211177825928, heading = 1.8535748720169 }, capacity = 2, price = 34000 },
+
+	-- Medium
+	['lowenstein2'] = { type = 'medium', name = '0552 Roy Lowenstein Boulevard', location = { x = 501.50500488281, y = -1497.0181884766, z = 29.2887134552 }, exportPos = { x = 504.46109008789, y = -1521.4616699219, z = 28.671909332275, heading = 48.719287872314 }, capacity = 6, price = 80000 },
+	['popular2'] = { type = 'medium', name = 'Unit 14 Popular Street', location = { x = 892.61022949219, y = -887.27728271484, z = 26.992183685303 }, exportPos = { x = 861.90808105469, y = -885.46246337891, z = 24.955965042114, heading = 179.55696105957 }, capacity = 6, price = 77500 },
+	['route682'] = { type = 'medium', name = '8754 Route 68', location = { x = -1133.1859130859, y = 2696.2443847656, z = 18.800424575806 }, exportPos = { x = -1147.6901855469, y = 2681.1328125, z = 17.476257324219, heading = 259.07339477539 }, capacity = 6, price = 65000 },
+}

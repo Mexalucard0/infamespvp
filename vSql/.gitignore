@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+
+CitizenFX.Core.dll
+CitizenFX.Core.Server.dll

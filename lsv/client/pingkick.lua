@@ -1,0 +1,6 @@
+RegisterNetEvent('lsv:playerHighPingWarned')
+AddEventHandler('lsv:playerHighPingWarned', function(ping)
+	PlaySoundFrontend(-1, 'MP_IDLE_TIMER', 'HUD_FRONTEND_DEFAULT_SOUNDSET', true)
+	FlashMinimapDisplay()
+	Gui.DisplayPersonalNotification('Tu ping es demasiado alto ('..ping..' ms).\nPor favor corríjalo o será expulsado del servidor.')
+end)

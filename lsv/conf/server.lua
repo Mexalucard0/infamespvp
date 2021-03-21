@@ -1,0 +1,1 @@
+Settings.minServerBuild = 0

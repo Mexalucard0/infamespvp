@@ -1,0 +1,26 @@
+-- Simeon Export
+Settings.simeon = {
+	duration = 900000,
+	vehicles = {
+		{ hash = `bagger`, name = 'Bagger' },
+		{ hash = `penumbra`, name = 'Maibatsu Penumbra' },
+		{ hash = `prairie`, name = 'Bollokan Prairie' },
+		{ hash = `bjxl`, name = 'Karin BeeJay XL' },
+		{ hash = `buccaneer`, name = 'Buccaneer' },
+		{ hash = `gresley`, name = 'Bravado Gresley' },
+		{ hash = `dominator`, name = 'Vapid Dominator' },
+		{ hash = `fusilade`, name = 'Schyster Fusilade' },
+		{ hash = `surge`, name = 'Cheval Surge' },
+		{ hash = `habanero`, name = 'Emperor Habanero' },
+		{ hash = `fq2`, name = 'Fathom FQ 2' },
+		{ hash = `patriot`, name = 'Patriot' },
+		{ hash = `tailgater`, name = 'Obey Tailgater' },
+		{ hash = `landstalker`, name = 'Landstalker' },
+		{ hash = `sentinel`, name = 'Sentinel XS' },
+	},
+	vehiclesCount = 2,
+	rewards = { cash = 20000, exp = 7500 },
+	dropRadius = 1.5,
+	blipRadius = 50.,
+	location = { x = 1204.4508056641, y = -3116.7836914062, z = 5.5403265953064 },
+}

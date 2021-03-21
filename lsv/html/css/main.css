@@ -1,0 +1,18 @@
+html {
+    overflow: hidden;
+}
+
+p {
+    margin: 0 !important;
+}
+
+#logo {
+    position: absolute;
+    opacity: 0.8;
+    right: 0vh;
+    top:0vh;
+}
+
+#logo img {
+    width: 15vh;
+}
