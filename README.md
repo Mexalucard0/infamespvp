@@ -1,4 +1,4 @@
-# infamespvp
+# InfamesPVP
 
 InfamesPVP
 Puede tener bugs o no, la verdad no lo probe simplemente reconstruí.
